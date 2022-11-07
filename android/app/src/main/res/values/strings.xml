@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">flutter_goole_facebook</string>
+    <string name="facebook_app_id">1100123497358318</string>
+    <string name="fb_login_protocol_scheme">fb1100123497358318</string>
+    <string name="facebook_client_token">80fac5c7751fd3894457cdcef653f80c</string>
+</resources>
